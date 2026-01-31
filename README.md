@@ -1,1 +1,2 @@
 # Project_Infinity_Gaunlet
+I Started this project by testing the wifi features in the esp32 which was a great succes, the wifi testing code is in /firmware/wifi_tts.ino, where we should connect the phone to the esp using wifi by the password mentioned in the code, and u can type commands in serial monitor and when u refresh the page in chrome u get the message.(Access point mode address http://192.168.4.1/)
