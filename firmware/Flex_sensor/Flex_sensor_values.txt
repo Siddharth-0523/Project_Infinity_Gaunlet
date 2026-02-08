@@ -1,0 +1,5 @@
+Sensor name   (regular value range)    (bent out range)   (bent in range)
+00624 - 57     1850-1936                   around 2064         around 1634
+00620 - 53     1550-1580                   around 1711         around 1340
+006191- 52     1188-1200                   around 1284         around 1104
+00619 - 52     1626-1600                   around 1750         around 1456
