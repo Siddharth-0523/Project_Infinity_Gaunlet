@@ -144,6 +144,7 @@ Challenges Faced -
 3. Incorrect tilt detection due to sensor orientation
 4. Power instability when using a battery supply
 5. Flex sensor values changing between different uses of the glove
+6. During full integration , the sensor's were not sensitive enough.
 
 Solutions Implemented -
 
@@ -152,6 +153,7 @@ Solutions Implemented -
 3. Identified the correct tilt axis based on sensor mounting
 4. Used a **buck converter** to provide stable power to the ESP32
 5. Implemented **automatic 5-second calibration to dynamically determine normal flex sensor values**
+6.By reducing the sensitive (tolerance) the gloves was made to react to even smaller bending's
 
 ---
 
